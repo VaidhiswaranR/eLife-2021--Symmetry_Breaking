@@ -1,4 +1,5 @@
-# Code resource (and submission files) for the published manuscript (Symmetry breaking meets multisite modification, eLife, 2021, https://elifesciences.org/articles/65358#digest)
+# Code resource (and submission files) 
+## Symmetry breaking meets multisite modification, eLife, 2021, https://elifesciences.org/articles/65358#digest
 
 This file was prepared by **Vaidhiswaran Ramesh** (first author of the manuscript above) and contains all the computational material required to recreate the plots and the mathematical proofs mentioned in the manuscript.
 
