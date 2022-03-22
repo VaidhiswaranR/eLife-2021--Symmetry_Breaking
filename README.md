@@ -13,6 +13,7 @@ ___
 1. **Parameters**: This folder contains the parameter values used to generate the various figures in the main text
 2. **MatCont**: This folder contains the various MatCont models (Matlab package) to generate the figures. The source file for the MatCont package can be found at this server: https://sourceforge.net/projects/matcont/. Please cite the relevant author when using the MatCont package.
 3. **Maple file**: This file contains the mathematical proofs and detailed mathematical model for the various networks explored in the paper. 
+4. **Latex**: This folder contains the latex submission files for the journal article. 
 
 ___
 
